@@ -4,6 +4,8 @@
 <a href="https://twitter.com/command40A71" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="commandrose" height="20" width="20" /></a>
 <a href="https://fb.com/lucaschelser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="commandrose" height="20" width="20" /></a>
 <a href="https://instagram.com/commandrose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="commandrose" height="20" width="20" /></a>
+ <a href="https://www.youtube.com/channel/UCJHXoxcW_0VzgLMh91y79kg">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
 </p>
 
 <img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
