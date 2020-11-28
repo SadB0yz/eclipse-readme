@@ -1,4 +1,4 @@
-#ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌑 **Eclipse** 🌑
+# 🌑 **Eclipse** 🌑
 
 <p align="center">
 <a href="https://twitter.com/command40A71" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="commandrose" height="20" width="20" /></a>
@@ -9,20 +9,13 @@
 
 <img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
 
-<p align="center">
+<p align="center">ㅤㅤㅤㅤㅤㅤㅤ<strong>Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo</strong>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EclipseXx" alt="maykbrito" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=EclipseXx" alt="EclipseXx" /> </p>
 
 
-
-
-<img align="right" alt="GIF" src="" />
-ㅤㅤㅤㅤㅤㅤㅤ<strong>Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo</strong>
-
-#                                                                    *Linguagens e ferramentas*
-
-**Linguagem e Ferramentas:**  
+# *Linguagens e ferramentas*
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
