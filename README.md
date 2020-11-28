@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
 
-<p align="center">=Texto da Eclipse
+<p align="center">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EclipseXx" alt="maykbrito" /> </p>
@@ -17,7 +17,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" />
+<img align="right" alt="GIF" src="" />
 ㅤㅤㅤㅤㅤㅤㅤ<strong>Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo</strong>
 
 #                                                                    *Linguagens e ferramentas*
