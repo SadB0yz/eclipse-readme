@@ -32,5 +32,5 @@
 <br />
 
 
-![EclipseXx](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![EclipseXx](https://github-readme-stats.vercel.app/api?username=EclipseXx&theme=dark&show_icons=true)
 
