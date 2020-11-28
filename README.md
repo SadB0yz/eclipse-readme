@@ -15,6 +15,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EclipseXx" alt="maykbrito" /> </p>
 
 
+
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" />
+ㅤㅤㅤㅤㅤㅤㅤ<strong>Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo</strong>
+
 #                                                                    *Linguagens e ferramentas*
 
 **Linguagem e Ferramentas:**  
@@ -27,11 +32,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
-
-
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" />
-ㅤㅤㅤㅤㅤㅤㅤ<strong>Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo</strong>
 <p align="center">
 
 
