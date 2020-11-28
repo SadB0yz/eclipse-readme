@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
 
-<p align="center">**Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ         Programadora em um Futuro Próximo**
+<p align="center">Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo<p align="center">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EclipseXx" alt="EclipseXx" /> </p>
