@@ -18,6 +18,8 @@
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em tentar lhe ajudar;
 
 
+
+
 **Linguagem e Ferramentas:**  
 
 
@@ -30,5 +32,5 @@
 <br />
 
 
-
+![EclipseXx](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
