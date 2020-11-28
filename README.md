@@ -1,31 +1,37 @@
-# 🌑 *Eclipse* 🌑
+### 🌑 *Eclipse* 🌑
+
+<a href="https://www.instagram.com/_pedro.444/">
+  <img align="left" alt="SadBoyz Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
+
+Olá, me chamo **Pedro**, Aspirante à Linguagem da Computação **  Sou apenas um garoto de 15 anos que sonha se tornar um grande **Developer** em um futuro próximo  :rocket: 
+
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/kZqbBT64ECtjy/giphy.gif" />
+
+**Sobre Mim:**
+
+- 👨🏽‍💻 Atualmente me dedico ao uso do JavaScript e HTML;
+- 🌱 Atualmente, estou me aprofundando ao uso do JavaScript e sempre aprendendo mais.; 
+- 🤔 Meus interesses são o Entendimento da Linguagem Natural, Visão computacional, Aprendizagem por Reforço e etc ...;
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 
 
-<img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
-
-<p align="center">Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande Programadora em um Futuro Próximo 🚀<p align="center">
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EclipseXx" alt="EclipseXx" /> </p>
-
-<p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Eclipse" height="20" width="20" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Eclipse" height="20" width="20" /></a>
- <a href="https://www.youtube.com/channel/UCJHXoxcW_0VzgLMh91y79kg">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Canal da Eclipse" height="20" width="20">
-</p>
-
-# *Linguagens e ferramentas*
+**Linguagem e Ferramentas:**  
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
-<p align="center">
 
 
 
