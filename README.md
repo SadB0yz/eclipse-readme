@@ -31,7 +31,7 @@
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" />
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤOlá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo</strong>
+ㅤㅤㅤㅤㅤㅤㅤㅤOlá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤProgramadora em um Futuro Próximo</strong>
 <p align="center">
 
 
