@@ -27,11 +27,11 @@
 <br />
 <p align="center">
 
-## Statistic
-<!-- git-readme-stat -->
+
+
 
 <div align="center">
  
-[EclipseXx](https://github-readme-stats.vercel.app/api?username=EclipseXx&show_icons=true&line_height=21&show_icons=true&theme=dark)<br/>
+[EclipseXx]https://github-readme-stats.vercel.app/api?username=EclipseXx&show_icons=true&line_height=21&show_icons=true&theme=dark<br/>
 
 
