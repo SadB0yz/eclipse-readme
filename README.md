@@ -36,8 +36,6 @@ Olá sou a Eclipse
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=commandrose&theme=graywhite&show_icons=true" alt="commandrose"/></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=commandrose&theme=graywhite&layout=compact&card_width=450" alt="commandrose"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EclipseXx&theme=graywhite&show_icons=true" alt="EclipseXx"/></p>
 
 
