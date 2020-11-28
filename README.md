@@ -1,4 +1,4 @@
-# 🌑 **Eclipse** 🌑
+# 🌑 *Eclipse* 🌑
 
 
 <img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
