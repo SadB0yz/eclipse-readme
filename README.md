@@ -12,7 +12,7 @@
 <p align="center">=Texto da Eclipse
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=commandrose" alt="maykbrito" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=EclipseXx" alt="maykbrito" /> </p>
 
 
 #                                                                    *Linguagens e ferramentas*
@@ -31,7 +31,7 @@
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" />
-Olá sou a Eclipse
+p align="center"> <strong>Olá, me chamo Beatriz, mas sou conhecida com Eclipse. Tenho 18 Anos que sonha em se tornar uma grande Programadora em um Futuro Próximo</strong>
 <p align="center">
 
 
