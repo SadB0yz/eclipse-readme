@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://data.whicdn.com/images/194151802/original.png" />
 
-<p align="center">Olá, me chamo Command, tenho 17 anos e atualmente estou morando em Quioto, Japão. Sou formado em Tecnologia da Informática e estou estudando Redes de Computadores e Banco de Dados.
+<p align="center">=Texto da Eclipse
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=commandrose" alt="maykbrito" /> </p>
@@ -33,8 +33,7 @@
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/50df0cae001cc6fd35eddb1edb1b8737/tumblr_nxaucpOj1P1uy2kano1_500.png" />
 Olá sou a Eclipse
 <p align="center">
-<a href="https://discord.gg/RqaHAWzgGN" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-</p>
+
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=commandrose&theme=graywhite&show_icons=true" alt="commandrose"/></p>
