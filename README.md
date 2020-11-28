@@ -30,7 +30,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/50df0cae001cc6fd35eddb1edb1b8737/tumblr_nxaucpOj1P1uy2kano1_500.png" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gist/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" />
 Olá sou a Eclipse
 <p align="center">
 
