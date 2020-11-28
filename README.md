@@ -27,12 +27,11 @@
 <br />
 <p align="center">
 
+## Statistic
+<!-- git-readme-stat -->
 
-<br />
-
-
-![EcpliseXx](https://github-readme-stats.vercel.app/api?username=EcpliseXx&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
+<div align="center">
+ 
+[EclipseXx](https://github-readme-stats.vercel.app/api?username=EclipseXx&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/EclipseXx/github-readme-stats)<br/>
 
 
