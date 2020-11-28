@@ -1,4 +1,4 @@
-#                                                                    *COMMAND*
+#                                                                    **Eclipse**
 
 <p align="center">
 <a href="https://twitter.com/command40A71" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="commandrose" height="20" width="20" /></a>
@@ -13,16 +13,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=commandrose" alt="maykbrito" /> </p>
 
-#                                                                    *MEU PC*
-
-      Processador AMD Rzen 7 2700 3,2Ghz 
-      Placa de Video PowerColor
-      Radeon Red Dragon RX 580 8GB 
-      Placa Mãe Asus Prime B450M Gaming 16
-      GB(2x8) RAM Hyperx 2666mhz
-      Monitor LED 29" IPS ultrawide 1ms 75Hz
-      Pro Gamer 29UM69G Lg CX 1 UN
-
 
 #                                                                    *Linguagens e ferramentas*
 
@@ -36,31 +26,10 @@
   [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python)
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/commandrose/Python)](https://github.com/commandrose/Python) 
 
-  **SQL:**
-  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/commandrose)](https://github.com/commandrose)
-  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/commandrose)](https://github.com/commandrose)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/commandrose)](https://github.com/commandrose)
-
-### Ferramentas
-
-**Desenvolvimento de software**
-[![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/commandrose "Eclipse IDE")](https://github.com/commandrose)
-[![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/commandrose "NetBeans IDE")](https://github.com/commandrose)
-[![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/commandrose "IntelliJ IDEA")](https://github.com/commandrose)
-[![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/commandrose "Docker")](https://github.com/commandrose)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/commandrose "Visual Studio")](https://github.com/commandrose)
-[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/commandrose "Android Studio" )](https://github.com/commandrose)
-[![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/commandrose "Vim")](https://github.com/commandrose)
-[![Emacs](https://img.shields.io/badge/-7F5AB6?style=flat&logo=GNU-Emacs&logoColor=white&link=https://github.com/commandrose "Emacs")](https://github.com/commandrose)
-[![RStudio](https://img.shields.io/badge/-75AADB?style=flat&logo=RStudio&logoColor=white&link=https://github.com/commandrose "RStudio")](https://github.com/commandrose)
-[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/commandrose "XCode")](https://github.com/commandrose)
-[![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&logoColor=white&link=https://github.com/commandrose "AzureDevops")](https://github.com/commandrose)
-[![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/commandrose "LeetCode")](https://github.com/commandrose)
-
 
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/50df0cae001cc6fd35eddb1edb1b8737/tumblr_nxaucpOj1P1uy2kano1_500.png" />
-誰も良くなりたくないのなら、良いことは悪くないようにしよう、世界は混乱している、それは私たちをどこまで連れて行くのだろうか？ 元カレは人生が短いので、また泣きながら自分に言い聞かせて、戻ってきてみませんか？私はそれをしますが、私のためではありません、私はそのようになりたくありませんでしたが、残念ながら私はそうです、あなたは私を許しますか？
+Olá sou a Eclipse
 <p align="center">
 <a href="https://discord.gg/RqaHAWzgGN" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
 </p>
