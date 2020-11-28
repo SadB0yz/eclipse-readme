@@ -13,9 +13,9 @@
 
 **Sobre Mim:**
 
-💻 Atualmente me dedico ao uso do JavaScript e na criação de Bot's para o Discord;
-🤔 Meus interesses são a Visão computacional e a Aprendizagem por Reforço;
-💬 Pergunte-me sobre qualquer coisa, fico feliz em tentar lhe ajudar;
+- 💻 Atualmente me dedico ao uso do JavaScript e na criação de Bot's para o Discord;
+- 🤔 Meus interesses são a Visão computacional e a Aprendizagem por Reforço;
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em tentar lhe ajudar;
 
 
 **Linguagem e Ferramentas:**  
